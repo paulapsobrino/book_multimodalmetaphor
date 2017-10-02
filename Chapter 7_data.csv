@@ -1,0 +1,306 @@
+number,Product ,Subproduct ,Complexity,Figurative operation,Realisation,METONYMY count,METAPHOR count,FIGURATIVENESS count,Figurative interaction,product target,mode target,mode source,Main image 
+2,Good,convenience,Simple,Metaphor,TIME IS SPACE (work day diagram),0,1,1,simple,no,visual,visual,Yes
+4,Good,convenience,Simple,Metaphor,ICE-CREAM IS COFFEE,,1,1,simple,yes,visual,verbopictorial,Yes
+10,Good,convenience,Simple,Metaphor,SCENARIO 1 (sexual members) IS SCENARIO 2 (social classes),,1,1,simple,no,absent,visual,No
+11,Good,convenience,Simple,Metaphor,SCENARIO 1 (constipation) IS SCENARIO 2 (dam),,1,1,simple,no,absent,visual,No
+12,Good,convenience,Simple,Metaphor,M&M COMPETITION IS POLITICAL POLL,,1,1,simple,yes,verbopictorial,verbopictorial,Yes
+17,Good,convenience,Simple,Metaphor,SEXUAL COMMUNITY IS METRO NETWORK,,1,1,simple,no,verbal,visual,No
+18,Good,convenience,Simple,Metaphor,ODOR IS CAR,,1,1,simple,no,verbal,absent,Yes
+28,Good,convenience,Simple,Metaphor,"FEELING IS BORDER OF BALLOON ?(implications: PAIN IS POINTY, WELL-BEING IS ROUND)",,1,1,simple,no,absent,visual,Yes
+30,Good,convenience,Simple,Metaphor,MEN ARE PIGS,,1,1,simple,no,visual,visual,No
+35,Good,shopping,Simple,Metaphor,PEOPLE ARE MACHINES,,1,1,simple,no,visual,visual,Yes
+38,Good,shopping,Simple,Metaphor,BAG IS ROCK/SHIELD,,1,1,simple,yes,visual,verbopictorial,Yes
+39,Good,shopping,Simple,Metaphor,MORE IS UP,,1,1,simple,no,visual,visual,Yes
+43,Good,shopping,Simple,Metaphor,LEVI IS BLACK SHEEP,,1,1,simple,yes,verbal,visual,Yes
+45,Good,shopping,Simple,Metaphor,LEGO PLANE IS REAL PLANE,,1,1,simple,yes,visual,visual,Yes
+48,Good,shopping,Simple,Metaphor,TYRE IS TENTACLE,,1,1,simple,yes,visual,visual,Yes
+49,Good,shopping,Simple,Metaphor,COMPUTER MOUSE IS REAL MOUSE,,1,1,simple,no,visual,visual,Yes
+52,Good,shopping,Simple,Metaphor,TRAINER IS TURTLE . Implication: slowness,,1,1,simple,no,visual,visual,Yes
+79,Good,specialty,Simple,Metaphor,DIAMONDS ARE CANDY,,1,1,simple,yes,verbopictorial,verbopictorial,Yes
+92,Good,unsought,Simple,Metaphor,IMPORTANT IS SMALL,,1,1,simple,no,visual,visual,Yes
+100,Good,unsought,Simple,Metaphor,BIKE IS LOCK. Implication: stronger than metonymy,,1,1,simple,no,visual,visual,Yes
+101,Good,unsought,Simple,Metaphor,STAPLER IS CROCODILE,,1,1,simple,yes,visual,visual,Yes
+108,Good,unsought,Simple,Metaphor,IMPORTANT IS BIG + MORE IS UP,,2,2,simple,no,visual,verbopictorial,Yes
+122,Service,tangible,Simple,Metaphor,CLINIC IS RUBBER,,1,1,simple,yes,verbal,visual,Yes
+125,Service,tangible,Simple,Metaphor,SERVICE OWNERS' ARE PETS,,1,1,simple,yes,verbal,verbal,?
+131,Service,tangible,Simple,Metaphor,PERSON IS CAT. Implication: they like to be at home,,1,1,simple,no,verbal,visual,Yes
+132,Service,tangible,Simple,Metaphor, BLOCKAGES TO KNOWLEDGE ARE WALLS + IGNORANCE IS DARKNESS,,2,2,simple,no,verbopictorial,verbopictorial,Yes
+153,Service,intangible,Simple,Metaphor,FILM EDUCATION IS A JOURNEY,,1,1,simple,no,verbopictorial,verbal,Yes
+172,Service,intangible,Simple,Metaphor,OBSTACLES TO ACTION ARE OBSTACLES TO MOTION,,1,1,simple,yes,verbal,visual,No
+178,Service,intangible,Simple,Metaphor,TRAVEL STORY IS PISA TOWER,,1,1,simple,no,verbal,visual,?
+188,NGO,NGO,Simple,Metaphor,LUST IS HUNGER,,1,1,simple,no,visual,verbal,Yes
+197,NGO,NGO,Simple,Metaphor,LUST IS HUNGER,,1,1,simple,yes,verbopictorial,verbopictorial,Yes
+15,Good,convenience,Simple,Metaphor ,SCENARIO 1 (smoking camel) IS SCENARIO 2 (exploring the unknown),,1,1,simple,yes,absent,verbopictorial,Yes
+58,Good,shopping,Simple,Metaphor ,DIVIDED SELF METAPHOR,,1,1,simple,no,visual,visual,No
+151,Service,intangible,Simple,Metaphor ,DIVIDED SELF METAPHOR,,1,1,simple,yes,verbopictorial,visual,No
+2,Good,convenience,Complex,Metaphoric complex,KIT KAT IS GOODNESS IS LIGHT,0,2,2,complex: chaining,yes,verbopictorial,visual,Yes
+2,Good,convenience,Complex,Metaphoric complex,WORK IS DARKNESS IS HELL,,2,2,complex: chaining,no,visual,visual,Yes
+54,Good,shopping,Complex,Metaphoric complex,FURNITURE ARE IDEAS ARE LIGHT,,2,2,complex: chaining,yes,visual,verbopictorial,Yes
+57,Good,shopping,Complex,Metaphoric complex,TWINGO IS KEY + MEANS OF SOLVING ARE MEANS OF OPENING  + OBSTACLES TO ACTION ARE OBSTACLES TO MOTON + FUTURE IS AHEAD,,4,4,complex: integration,yes,verbopictorial,visual,Yes
+59,Good,shopping,Complex,Metaphoric complex,BABY CLOTHING IS BABY PARK IS  JAIL,,2,2,complex: chaining,no,verbal,visual,Yes
+63,Good,specialty,Complex,Metaphoric complex,LIGHT SOURCE (DIAMOND FOR LUXURY) IS GOODNESS + MORE IS UP,1,2,3,complex: integration,no,visual,visual,Yes
+64,Good,specialty,Complex,Metaphoric complex,CHAMPAGNE (FOR MOET) IS LIGHT + GOODNESS IS LIGHT,1,2,3,complex: integration,yes,visual,visual,No
+68,Good,specialty,Complex,Metaphoric complex,DIAMOND IS SUNLIGHT + GOOD IS LIGHT,,2,2,complex: integration,yes,visual,visual,Yes
+71,Good,specialty,Complex,Metaphoric complex,MOLESKINE IS A CONTAINER <--IDEAS ARE OBJECTS --> THINKING IS WRITING / LOSING CONTROL OF STH IS HAVING IT LOOSE,,3,3,complex: integration,yes,visual,visual,Yes
+77,Good,specialty,Complex,Metaphoric complex,TRUFFLES IS GOOD IS DOWN,,2,2,complex: chaining,yes,verbopictorial,verbopictorial,Yes
+90,Good,specialty,Complex,Metaphoric complex,PARFUM IS LIGHT + GOODNESS/HOPE IS LIGHT,,2,2,complex: integration,yes,verbopictorial,verbopictorial,Yes
+102,Good,unsought,Complex,Metaphoric complex,CONTRABASS IS A CONTAINER + IMPORTANT IS BIG,,2,2,complex: integration,yes,visual,visual,Yes
+121,Service,tangible,Complex,Metaphoric complex,CHANGE IS MOTION + GOOD IS UP ,,2,2,complex: integration,no,verbal,verbopictorial,Yes
+132,Service,tangible,Complex,Metaphoric complex,WINDOWS IS LIGHT <-- IDEAS ARE LIGHT -->UNDERSTANDING IS SEEING. Implication: Windows is insightful understanding derived form seeing in the light,,3,3,complex: integration,yes,verbopictorial,verbopictorial,Yes
+132,Service,tangible,Complex,Metaphoric complex,WINDOWS IS LIGHT + FUTURE IS AHEAD,,2,2,complex: integration,yes,verbopictorial,verbopictorial,Yes
+133,Service,tangible,Complex,Metaphoric complex,CHANGE IS MOTION <--GOOD IS UP --> UNDERSTANDING IS SEEING,,3,3,complex: integration,no,verbopictorial,verbopictorial,Yes
+140,Service,tangible,Complex,Metaphoric complex,COMPANY IS HOUND + IMPORTANT IS BIG,,2,2,complex: integration,yes,verbal,visual,Yes
+141,Service,tangible,Complex,Metaphoric complex, A COMPETITION IS A 1 ON 1 PHYSICAL COMPETITION (DOCTOR FOR COMPANY FOR LIFE + GRIM REAPER FOR DEATH) --> TREATING A DISEASE <--RACE IS A COMPETITION TO WIN SOMETHING + PROGRESS IS MOTION FORWARD,2,4,6,complex: integration,no,verbopictorial,visual,Yes
+141,Service,tangible,Complex,Metaphoric complex,RACE IS A COMPETITION TO WIN SOMETHING + PROGRESS IS MOTION FORWARD,,2,2,complex: integration,no,visual,visual,Yes
+152,Service,intangible,Complex,Metaphoric complex,IMPEDIMENT TO UNDERSTADING IS IMPEDIMENT TO SEEING (DARKNESS) IS COVER,,2,2,complex: chaining,yes,verbal,verbopictorial,Yes
+157,Service,intangible,Complex,Metaphoric complex,MAKING A DISCOVERY IS SEEING NEW OBJECT (museum for architecture) + IMPORTANT IS BIG,1,2,3,complex: integration,no,verbopictorial,visual,No
+162,Service,intangible,Complex,Metaphoric complex,"CAREER IS A JOURNEY -->PURPOSEFUL ACTION IS DIRECTED MOTION <-- MORAL/RATIONAL IS UP. Implication: UNDERSTADING IS ARRIVING, CAREER IS A VERTICAL RACE",,3,3,complex: integration,no,verbopictorial,visual,Yes
+168,Service,intangible,Complex,Metaphoric complex,READING IN IPAD IS EXPLORING A LANDSCAPE +NEWS ARE LOCATIONS,,2,2,complex: integration,yes,verbopictorial,verbopictorial,Yes
+172,Service,intangible,Complex,Metaphoric complex,COMPANY IS (ZEBRA CROSSING FOR) PATH OVER WHICH MOTION OCCURS + APPROACHES TO A SOLUTION ARE PATHS,1,2,3,complex: integration,yes,verbal,visual,No
+173,Service,intangible,Complex,Metaphoric complex,CABLE (FOR COMPANY) IS FENCE + OBSTACLES TO ACTION ARE OBSTACLES TO MOTION,1,2,3,complex: integration,yes,verbopictorial,visual,Yes
+175,Service,intangible,Complex,Metaphoric complex,WAVE (FOR SOUND) IS FENCE + OBSTACLES TO ACTION ARE OBSTACLES TO MOTION,1,2,3,complex: integration,yes,verbopictorial,visual,No
+182,NGO,NGO,Complex,Metaphoric complex,CROSS  IS KANJI IS TREE,,2,2,complex: chaining,yes,visual,verbopictorial,Yes
+3,Good,convenience,Complex,Metonymic chain,GREEN FOR NATURE FOR NATURAL,2,,2,complex: chaining,no,visual,visual,Yes
+5,Good,convenience,Complex,Metonymic chain,DRINKING PRODUCT FOR BLUE TONGUE FOR BEING FROZEN (CAUSE FOR EFFECT FOR EFFECT),2,,2,complex: chaining,no,visual,visual,Yes
+11,Good,convenience,Complex,Metonymic chain,GREEN FOR NATURE FOR NATURAL,2,,2,complex: chaining,no,visual,verbal,No
+14,Good,convenience,Complex,Metonymic chain,GREEN FOR NATURE FOR NATURAL ,2,,2,complex: chaining,no,visual,absent,Yes
+18,Good,convenience,Complex,Metonymic chain,(1) MEAT FOR RED &(2)  CLING FILM FOR WHITE FOR TRAFFIC SIGN FOR STOP,4,,4,complex: chaining,no,visual,visual,Yes
+23,Good,convenience,Complex,Metonymic chain,KETCHUP BOTTLE FOR TOMATO + SLICES&LEAVES&RED FOR TOMATO,4,0,4,complex :chaining,yes,verbopictorial,visual,Yes
+27,Good,convenience,Complex,Metonymic chain,NOSE FOR PINOCCHIO FOR LIAR; ABRAHAN LINCOLN FOR HONEST MAN FOR TRUTH,4,,4,complex: chaining,no,visual,visual,Yes
+28,Good,convenience,Complex,Metonymic chain,CAUSE (PRODUCT) FOR EFFECT (FEELING) FOR SOUND (ONOMATOPOEIA),2,,2,complex: chaining,no,verbal,visual,Yes
+36,Good,shopping,Complex,Metonymic chain,CONE & YELLOW & RED & FRENCH FRIES FOR MCDONALDS,4,,4,complex: chaining,yes,visual,verbopictorial,Yes
+37,Good,shopping,Complex,Metonymic chain,NIVEA FOR MOON&NIGHT FOR NIGHT CARE,2,,2,complex: chaining,yes,verbopictorial,visual,Yes
+40,Good,shopping,Complex,Metonymic chain,THEATER PLAN FOR LIVE MUSIC FOR QUALITY SOUND,2,,2,complex: chaining,yes,verbal,visual,Yes
+46,Good,shopping,Complex,Metonymic chain,RRRR FOR ENGINE FOR CAR,2,,2,complex: chaining,yes,visual,verbal,Yes
+46,Good,shopping,Complex,Metonymic chain,GREEN FOR NATURE FOR NATURE-FRIENDLY,2,,2,complex: chaining,no,absent,verbopictorial,Yes
+51,Good,shopping,Complex,Metonymic chain,GIRL & NAPALM & ROAD FOR FAMOUS PICTURE FOR VIETNAM WAR ,4,,4,complex: chaining,no,verbal,verbal,Yes
+53,Good,shopping,Complex,Metonymic chain,ROUND WHITE SHAPE FOR MOON & DARK BLUE BACKGROUND FOR NIGHT FOR NIGHT CARE,3,,3,complex: chaining,no,visual,visual,Yes
+55,Good,shopping,Complex,Metonymic chain,CAUSE (PRODUCT) FOR EFFECT (LONG EYELASHES) FOR EFFECT (GLASSES),2,,2,complex: chaining,no,verbopictorial,visual,Yes
+56,Good,shopping,Complex,Metonymic chain,LOGO 1 & LOGO 2 & LOGO 3 FOR BRAND FOR PRODUCT,2,,2,complex: chaining,no,absent,visual,Yes
+58,Good,shopping,Complex,Metonymic chain,CAUSE (PRODUCT) FOR EFFECT (READING) FOR EFFECT (DREAMING),2,,2,complex: chaining,no,verbal,visual,No
+61,Good,specialty,Complex,Metonymic chain,HAND FOR DIAMOND FOR ENGAGEMENT,2,,2,complex: chaining,yes,visual,visual,Yes
+62,Good,specialty,Complex,Metonymic chain,MARION COTILLARD & EIFFEL TOWER FOR FRANCE FOR DIOR,3,,3,complex: chaining,yes,visual,visual,Yes
+73,Good,specialty,Complex,Metonymic chain,JIMMY CHOO FOR GOLD FOR LUXURY,2,,2,complex: chaining,no,visual,visual,No
+74,Good,specialty,Complex,Metonymic chain,CIRCLE FOR WHEEL FOR SAFE CASE,2,,2,complex: chaining,no,visual,visual,Yes
+75,Good,specialty,Complex,Metonymic chain,FINGER FOR DIAMOND FOR ENGAGEMENT,2,,2,complex: chaining,no,verbal,visual,Yes
+76,Good,specialty,Complex,Metonymic chain,MOUSE FOR COMPUTER FOR WEBSITE,2,,2,complex: chaining,yes,verbopictorial,visual,Yes
+77,Good,specialty,Complex,Metonymic chain,OIL FOR JULIUS MEINL FOR GOURMET,2,,2,complex: chaining,no,verbopictorial,visual,Yes
+83,Good,specialty,Complex,Metonymic chain,JOHN LENON FOR GUITAR FOR FOUNTAIN PEN,2,,2,complex: chaining,yes,verbopictorial,visual,Yes
+85,Good,specialty,Complex,Metonymic chain,CAUSE (PRODUCT) FOR EFFECT (EXCITEMENT FOR HEART ATTACK) FOR EFFECT 2 (DEFIBRILLATOR FOR REANIMATION),3,,3,complex: chaining,no,visual,verbopictorial,?
+87,Good,specialty,Complex,Metonymic chain,EIFFEL TOWER FOR FRANCE & TIGER FOR CARTIER,2,,2,complex: chaining,yes,verbal,visual,Yes
+92,Good,unsought,Complex,Metonymic chain,CAMERA FOR PHOTOGRAPHER FOR PHOTOGRAPHY (DISCIPLINE),2,,2,complex: chaining,no,verbal,visual,Yes
+93,Good,unsought,Complex,Metonymic chain,GUITAR FOR ROCK STAR FOR  ESCAPING FANS (= emergency exit),2,,2,complex: chaining,no,visual,visual,Yes
+94,Good,unsought,Complex,Metonymic chain,GLASS FOR WINE FOR WINE TOOL,2,,2,complex: chaining,yes,visual,visual,?
+97,Good,unsought,Complex,Metonymic chain,CAUSE (PRODUCT) FOR EFFECT (ONOMATOPOEIA) FOR EFFECT 2 (SILENCE),2,,2,complex: chaining,no,verbal,visual,Yes
+98,Good,unsought,Complex,Metonymic chain,CAUSE (PRODUCT) FOR EFFECT (ONOMATOPOEIA) FOR EFFECT 2 (SILENCE),2,,2,complex: chaining,no,verbal,visual,Yes
+102,Good,unsought,Complex,Metonymic chain,DRIVE FOR CONTRABASS FOR CONTAINER OF MUSIC,2,,2,complex: chaining,yes,verbopictorial,verbopictorial,Yes
+104,Good,unsought,Complex,Metonymic chain,TRIGGER FOR GUN FOR WAR,2,,2,complex: chaining,no,verbal,visual,Yes
+104,Good,unsought,Complex,Metonymic chain,VIBRATOR FOR SEX FOR LOVE,2,,2,complex: chaining,no,verbal,visual,Yes
+108,Good,unsought,Complex,Metonymic chain,CAUSE (PRODUCT) FOR EFFECT (STOPING FIRE) FOR EFFECT 2 (SAVING POSSESSIONS) + EACH ICON IS A SUBDOMAINS OF THE WIDER DOMAIN POSSESSIONS. ,3,,3,complex: chaining,no,verbopictorial,visual,Yes
+109,Good,unsought,Complex,Metonymic chain,VERBAL DEFINITION & VISUAL DEFINITION FOR ENCYCLOPEDIA,2,,2,complex: chaining,yes,verbal,verbopictorial,Yes
+111,Good,unsought,Complex,Metonymic chain,WAVES FOR MUSE FOR MUSIC,2,,2,complex: chaining,no,verbal,visual,Yes
+111,Good,unsought,Complex,Metonymic chain,AMBULANCE FOR SIREN FOR NOISE,2,,2,complex: chaining,no,verbal,visual,Yes
+113,Good,unsought,Complex,Metonymic chain,GUITER FOR GUITAR PLAYER FOR ROCK STAR,2,,2,complex: chaining,no,visual,verbopictorial,Yes
+116,Good,unsought,Complex,Metonymic chain,GLASSES FOR READING FOR MAGAZINE,2,,2,complex: chaining,yes,verbal,visual,Yes
+117,Good,unsought,Complex,Metonymic chain,ROD FOR FISH FOR DINNER,2,,2,complex: chaining,no,verbal,visual,Yes
+117,Good,unsought,Complex,Metonymic chain,DETECTOR FOR MONEY FOR VEGAS,2,,2,complex: chaining,no,verbal,visual,Yes
+118,Good,unsought,Complex,Metonymic chain,CAUSE (PRODUCT) FOR EINSTEIN FOR SMART COOKIE,2,,2,complex: chaining,no,visual,verbopictorial,Yes
+119,Good,unsought,Complex,Metonymic chain,WEDDING PICTURE FOR DATE FOR LOCK COMBINATION,2,,2,complex: chaining,yes,verbopictorial,visual,Yes
+122,Service,tangible,Complex,Metonymic chain,SAUSAGE FOR FAT FOR FAT PERSON,2,,2,complex: chaining,yes,verbal,visual,Yes
+122,Service,tangible,Complex,Metonymic chain,BANANA FOR NO FAT FOR HEALTHY PERSON,2,,2,complex: chaining,yes,verbal,visual,Yes
+129,Service,tangible,Complex,Metonymic chain,CAUSE (SOFA) FOR EFFECT 1 (BIG&HEAVY BOX) FOR EFFECT 2 (SERVICE),2,,2,complex: chaining,yes,verbopictorial,verbopictorial,Yes
+139,Service,tangible,Complex,Metonymic chain,KEY FOR HOUSE FOR REAL STATE AGENCY,2,,2,complex: chaining,yes,verbal,visual,Yes
+142,Service,tangible,Complex,Metonymic chain,HAND FOR WORK FOR COMPANY,2,,2,complex: chaining,yes,verbal,visual,Yes
+149,Service,tangible,Complex,Metonymic chain,CAUSE (FLOODING FOR ACCIDENT) FOR EFFECT 1 (VAN GOGH'S ROOM IN ARLES FOR ART WORK) FOR EFFECT 2 (COMPANY),2,,2,complex: chaining,yes,verbal,visual,No
+151,Service,intangible,Complex,Metonymic chain,HAWAII FOR PARADISE FOR HEAVEN,2,,2,complex: chaining,yes,verbopictorial,visual,No
+151,Service,intangible,Complex,Metonymic chain,FIRE FOR BAD FOR HELL,2,,2,complex: chaining,yes,verbopictorial,visual,No
+155,Service,intangible,Complex,Metonymic chain,CAUSE (OPEN SAFE CASE) FOR EFFECT (LOST FORTUNE) FOR EFFECT (NOTIFICATION),2,,2,complex: chaining,yes,verbopictorial,visual,Yes
+160,Service,intangible,Complex,Metonymic chain,CAUSE (BANK CARD) FOR EFFECT 1 (PURCHASE) FOR EFFECT 2 (GETTING DISCOUNT),2,,2,complex: chaining,no,verbal,visual,Yes
+160,Service,intangible,Complex,Metonymic chain,HOOK FOR CAPTAIN HOOK FOR MOVIE,2,,2,complex: chaining,no,verbal,visual,Yes
+163,Service,intangible,Complex,Metonymic chain,LABEL FOR AIRPORT FOR TRAVELLING ABROAD,2,,2,complex: chaining,yes,verbopictorial,visual,Yes
+164,Service,intangible,Complex,Metonymic chain,MOUSTACHE FOR DALI FOR SPANISH ART/CULTURAL HERITAGE,2,,2,complex: chaining,yes,verbal,visual,Yes
+169,Service,intangible,Complex,Metonymic chain,GRAND CANYON FOR ARIZONA FOR ARIZONA TOURISM,2,,2,complex: chaining,yes,verbal,visual,No
+176,Service,intangible,Complex,Metonymic chain,CAUSE (PETER PAN FOR LOST CHILDREN) FOR EFFECT 1 (SERVICE) FOR EFFECT 2 (FINDING CHILDREN),2,,2,complex: chaining,yes,verbopictorial,visual,Yes
+178,Service,intangible,Complex,Metonymic chain,PISA FOR ITALY FOR TRAVEL STORY,2,,2,complex: chaining,no,verbal,visual,?
+179,Service,intangible,Complex,Metonymic chain,"CAUSE (SERVICE) FOR EFFECT (COMMERCE, EASY, PICTOGRAM, KANJI FOR CHINA)",4,,4,complex: chaining,yes,verbopictorial,verbal,Yes
+180,Service,intangible,Complex,Metonymic chain,EIFFEL TOWER FOR FRANCE FOR FRENCH LANGUAGE,2,,2,complex: chaining,yes,verbal,visual,Yes
+181,NGO,NGO,Complex,Metonymic chain,MILK FOR DRINKING FOR DAVID BECKHAM FOR HEALTH,3,,3,complex: chaining,yes,verbopictorial,verbopictorial,Yes
+189,NGO,NGO,Complex,Metonymic chain,CAUSE (CAR FOR DRIVING + DRINKING) FOR EFFECT (PUNCH FOR ACCIDENT),3,,3,complex: chaining,yes,verbopictorial,verbopictorial,Yes
+194,NGO,NGO,Complex,Metonymic chain,CAUSE (HOMELESS FOR BEING IN THE STREET) FOREFFECT (BEING COLD) FOR EFFECT (BEING ICE),4,,4,complex: chaining,no,visual,verbopictorial,Yes
+196,NGO,NGO,Complex,Metonymic chain,CAUSE (SMOKING) FOR EFFECT (CROSS FOR DEATH)  ,3,,3,complex: chaining,no,visual,verbal,No
+201,NGO,NGO,Complex,Metonymic chain,(SHOPPING CART FOR) BUYING IRRESPONSIBLY FOR (CAGE FOR) PRISON,3,,3,complex: chaining,yes,visual,verbopictorial,Yes
+207,NGO,NGO,Complex,Metonymic chain,FORK FOR FOOD FOR EATING,2,,2,complex: chaining,yes,verbal,visual,Yes
+209,NGO,NGO,Complex,Metonymic chain,CAUSE (DRINKING POLLUTED WATER) FOR EFFECT (NUCLEAR EXPLOSION FOR MASSIVE DEATH),3,,3,complex: chaining,yes,verbopictorial,visual,Yes
+210,NGO,NGO,Complex,Metonymic chain,CAUSE (CANDLE FOR HEAT FOR GLOBAL WARMING) FOR EFFECT (MELT ICE FOR EXTINCTION OF POLAR BEARS),3,,3,complex: chaining,yes,visual,visual,Yes
+8,Good,convenience,Simple,Metonymy,"APPLIANCE FOR AGE PERIOD (parametrizations: BABY WALKIE TALKIE FOR INFANCY, DISCMAN FOR ADOLESCENCE, RADIO FOR ADULTHOOD) ",3,,3,simple,no,absent,visual,Yes
+10,Good,convenience,Simple,Metonymy,CAUSE (PRODUCT) FOR EFFECT,1,,1,simple,no,absent,verbopictorial,No
+15,Good,convenience,Simple,Metonymy,CAMEL FOR TOBACCO,1,,1,simple,yes,absent,visual,Yes
+19,Good,convenience,Simple,Metonymy,CAUSE (PRODUCT) FOR EFFECT (SEA ODOUR),1,,1,simple,no,visual,visual,Yes
+20,Good,convenience,Simple,Metonymy,COLOR FOR FOOD,1,,1,simple,yes,visual,visual,Yes
+24,Good,convenience,Simple,Metonymy,XL FOR ADULT,1,,1,simple,yes,visual,visual,No
+26,Good,convenience,Simple,Metonymy,CONTAINER (GLASS) FOR CONTENT (MILK),1,,1,simple,yes,verbopictorial,visual,Yes
+35,Good,shopping,Simple,Metonymy,EAR FOR HEARING,1,,1,simple,no,verbopictorial,visual,Yes
+38,Good,shopping,Simple,Metonymy,BAG FOR TRAVELLING,1,,1,simple,yes,visual,visual,Yes
+39,Good,shopping,Simple,Metonymy,RINGS FOR MARRIAGE,1,,1,simple,no,visual,verbal,Yes
+39,Good,shopping,Simple,Metonymy,RINGS FOR AUDI,1,,1,simple,yes,visual,verbal,Yes
+51,Good,shopping,Simple,Metonymy,OBJECTIVE & OBTURER FOR CAMERA,2,,2,complex: integration,yes,visual,visual,Yes
+63,Good,specialty,Simple,Metonymy,DIAMOND FOR LUXURY,1,,1,simple,no,verbopictorial,visual,Yes
+63,Good,specialty,Simple,Metonymy,4 RINGS FOR AUDI,1,,1,simple,yes,visual,visual,Yes
+74,Good,specialty,Simple,Metonymy,NOTE FOR FORTUNE,1,,1,simple,no,visual,visual,Yes
+76,Good,specialty,Simple,Metonymy,RED & GLASS & WINE FOR GOURMET,3,,3,complex: integration,yes,verbopictorial,visual,Yes
+80,Good,specialty,Simple,Metonymy,IVANA VANCONA FOR TECNOMARINE,1,,1,simple,no,visual,verbal,Yes
+94,Good,unsought,Simple,Metonymy,SMARTPHONE FOR WEBSITE,1,,1,simple,yes,verbal,visual,?
+102,Good,unsought,Simple,Metonymy,CONTRABASS FOR MUSIC,1,,1,simple,yes,visual,visual,Yes
+105,Good,unsought,Simple,Metonymy,GUN FOR SNIPER,1,,1,simple,no,verbopictorial,verbopictorial,Yes
+111,Good,unsought,Simple,Metonymy,CAUSE (PRODUCT) FOR EFFECT (LEAVING OUT NOISE),1,,1,simple,no,visual,visual,Yes
+126,Service,tangible,Simple,Metonymy,CAUSE (SERVICE) FOR EFFECT (TAME THE BEAST),1,,1,simple,no,verbopictorial,verbopictorial,?
+130,Service,tangible,Simple,Metonymy,MOBILE FOR APP,1,,1,simple,yes,visual,verbopictorial,Yes
+131,Service,tangible,Simple,Metonymy,CAUSE 1 (FLEXIBILITY) AND CAUSE (HOMY) FOR EFFECT (SERVICE),2,,2,complex: integration,no,verbal,visual,Yes
+132,Service,tangible,Simple,Metonymy,LOGO 1 & LOGO 2 & LOGO 3 FOR BRAND,3,,3,complex: integration,yes,verbopictorial,verbopictorial,Yes
+134,Service,tangible,Simple,Metonymy,BOX FOR SHIPPING,1,,1,simple,no,visual,visual,Yes
+134,Service,tangible,Simple,Metonymy,CHINESE VASE FOR FRAGILE GOODS ,1,,1,simple,no,visual,visual,Yes
+134,Service,tangible,Simple,Metonymy,HAND FOR SENDER/RECEIVER,1,,1,simple,no,visual,visual,Yes
+135,Service,tangible,Simple,Metonymy,WHITE&RED&SOUP FOR CAMPBELL,3,,3,complex: integration,no,visual,verbopictorial,Yes
+136,Service,tangible,Simple,Metonymy,CAUSE (NON-FUNCTIONAL MACHINE) FOR EFFECT (SERVICE),1,,1,simple,yes,verbal,visual,Yes
+145,Service,tangible,Simple,Metonymy,HAND FOR ROCK,1,,1,simple,no,verbal,visual,Yes
+145,Service,tangible,Simple,Metonymy,CESAR FOR ROME,1,,1,simple,no,verbal,visual,Yes
+146,Service,tangible,Simple,Metonymy,ARM FOR GLASSES + EAGLE'S EYES FOR GOOD SIGHT,2,,2,simple,yes,visual,visual,Yes
+150,Service,tangible,Simple,Metonymy,CAUSE (EATING CANDY) FOR EFFECT (DIABETES),1,,1,simple,yes,verbal,visual,No
+151,Service,intangible,Simple,Metonymy,CAUSE (FIRE) FOR EFFECT (SERVICE),1,,1,simple,yes,verbopictorial,visual,No
+153,Service,intangible,Simple,Metonymy,CAUSE (SERVICE) FOR EFFECT (EDUCATION),1,,1,simple,no,verbal,verbal,Yes
+153,Service,intangible,Simple,Metonymy,SENTENCE + TYPOGRAPHY + B/W FOR CASABLANCA THE MOVIE,3,,3,complex: integration,no,verbopictorial,verbopictorial,Yes
+158,Service,intangible,Simple,Metonymy,"TEE, BALL, GREEN, HEEL FOR WOMEN'S GOLF ",4,,4,complex: integration,yes,verbal,visual,No
+161,Service,intangible,Simple,Metonymy,GLASS FOR READ & MUSICAL NOTE FOR MUSICAL BLOG,2,,2,complex: integration,yes,verbal,visual,Yes
+162,Service,intangible,Simple,Metonymy,BUILDING FOR BUSINESS,1,,1,simple,no,verbal,visual,Yes
+165,Service,intangible,Simple,Metonymy,CAUSE (WEAK) FOR EFFECT (COMPANY),1,,1,simple,yes,visual,verbal,No
+170,Service,intangible,Simple,Metonymy,CAUSE (SERVICE) FOR EFFECT (LOOKING FOR THE RIGHT JOB),1,,1,simple,yes,verbal,verbal,Yes
+170,Service,intangible,Simple,Metonymy,DOCTOR CLOTHING FOR PROFESSION,1,,1,simple,no,visual,visual,Yes
+172,Service,intangible,Simple,Metonymy,PEOPLE FOR COMPANY,1,,1,simple,yes,verbal,visual,No
+177,Service,intangible,Simple,Metonymy,CAUSE (SERVICE) FOR EFFECT (IMPROVING ENGLISH = MUSCULATING),1,,1,simple,yes,verbal,verbal,No
+180,Service,intangible,Simple,Metonymy,TONGUE FOR ABILITY TO SPEAK,1,,1,simple,yes,verbal,visual,Yes
+202,NGO,NGO,Simple,Metonymy,CAUSE (TODAY HERE) FOR EFFECT (TOMORROW THERE),1,,1,simple,yes,verbal,verbal,Yes
+202,NGO,NGO,Simple,Metonymy,SARDIN FOR FISH,1,,1,simple,yes,visual,visual,Yes
+205,NGO,NGO,Simple,Metonymy,CAUSE (SERVICE) FOR EFFECT (SENDING MONEY ),1,,1,simple,yes,verbal,verbal,No
+205,NGO,NGO,Simple,Metonymy,GAZELLA FOR AFRICA,1,,1,simple,yes,verbal,visual,No
+205,NGO,NGO,Simple,Metonymy,BANK NOTE FOR MONEY,1,,1,simple,yes,verbopictorial,visual,No
+207,NGO,NGO,Simple,Metonymy,HAND FOR ASKING,1,,1,simple,yes,verbal,visual,Yes
+208,NGO,NGO,Simple,Metonymy,CAUSE (SET HARM) FOR EFFECT (GET HARM),1,,1,simple,yes,verbal,verbal,?
+1,Good,convenience,Complex,Metaphtonymy,HEADPHONE (FOR LOUD NOISE)  IS A PERSON (FOR SCREAMING PERSON IN PAIN) + CAUSE FOR EFFECT,3,1,4,complex: integration,no,visual,visual,Yes
+1,Good,convenience,Complex,Metaphtonymy,EAR (FOR HEARING) IS SUFFERING PERSON,1,1,2,complex: integration,yes,visual,visual,
+3,Good,convenience,Complex,Metaphtonymy,7UP IS LEMON + LEAVES FOR LEMON,1,1,2,complex: integration,yes,verbopictorial,visual,Yes
+6,Good,convenience,Complex,Metaphtonymy,BACK IS TOWER OF PISA + CAUSE (PRODUCT) FOR EFFECT,1,1,2,complex: integration,no,visual,verbopictorial,Yes
+7,Good,convenience,Complex,Metaphtonymy,SANTA IS SPOON WITH MAYO + SANTA FOR CHRISTMAS,1,1,2,complex: integration,no,verbopictorial,visual,Yes
+9,Good,convenience,Complex,Metaphtonymy,DURACELL BATTERY IS PETROL FIELD + CRANE / BLACK FOR PETROL FOR PETROL FIELD,4,1,5,complex: integration,yes,visual,visual,Yes
+14,Good,convenience,Complex,Metaphtonymy,HARIBO BEAR IS APPLE  + LEAVES FOR APPLE,1,1,2,complex: integration,yes,verbopictorial,visual,Yes
+16,Good,convenience,Complex,Metaphtonymy,HUMANS ARE MACHINES (COFFEE IS POWER BUTTON ) + coffee for energy,1,1,2,complex: integration,no,visual,verbopictorial,Yes
+20,Good,convenience,Complex,Metaphtonymy,IDEAS ARE FOOD + ENCLYCLOPEDIA&BOOKS FOR IDEAS. + BREAD &SALAD&MEAT&CHEESE FOR FOOD,6,1,7,complex: integration,no,verbopictorial,verbopictorial,Yes
+21,Good,convenience,Complex,Metaphtonymy,SCENARIO 1 (mouth) IS SCENARIO 2 (broccoli house). Metonymies: GOLD&POOL&FACIAL EXPRESSION FOR POWER; THIN&FACIAL EXPRESSION&SHORT CAIN FOR POWERLESS. Metaphor: Personifications,7,1,8,complex: integration,no,absent,visual,?
+22,Good,convenience,Complex,Metaphtonymy,DRESS IS WATER + CAUSE (PRODUCT) FOR EFFECT (FEELING LIKE WATER),1,1,2,complex: integration,no,visual,verbopictorial,Yes
+24,Good,convenience,Complex,Metaphtonymy,SCENARIO 1(children playing with lighters) IS SCENARIO 2 (neandherthal discovering fire). Metonymies: ROOM&GIRL FOR SCENARIO 1. APPEARANCE&DRESS&DINOSSAUR&BATE FOR SCENARIO 2,6,1,7,complex: integration,no,verbopictorial,visual,No
+25,Good,convenience,Complex,Metaphtonymy,OREO IS (HAPPY) PERSON + SMILE FOR HAPPINESS,1,1,2,complex: integration,yes,verbopictorial,visual,Yes
+31,Good,shopping,Complex,Metaphtonymy,UMBRELLA IS HAND + HAND FOR HANDMADE,1,1,2,complex: integration,yes,verbopictorial,visual,Yes
+32,Good,shopping,Complex,Metaphtonymy,HYUNDAY OIL IS WINE + WINE FOR GOURMET/LUXURY (implication:  HYUNDAY SERVICE IS GOURMET SERVICE),1,2,3,complex: integration,yes,visual,verbopictorial,Yes
+33,Good,shopping,Complex,Metaphtonymy,SHOE IS PERSON + FINGERS FOR PERSON,1,1,2,complex: integration,yes,verbopictorial,verbopictorial,Yes
+34,Good,shopping,Complex,Metaphtonymy,SHOE IS BANANA + LACES FOR SHOE,1,1,2,complex: integration,yes,visual,visual,Yes
+39,Good,shopping,Complex,Metaphtonymy,AUDI IS LOVE + RINGS FOR AUDI,1,1,2,complex: integration,yes,visual,verbal,Yes
+41,Good,shopping,Complex,Metaphtonymy,PERSON IS MACHINE + BATTERY FOR MACHINE,1,1,2,complex: integration,no,verbal,visual,Yes
+44,Good,shopping,Complex,Metaphtonymy,"FRIES ARE LEGS + LEGS FOR WOMAN (Implication: golden = tanned, attractive)",1,1,2,complex: integration,no,verbopictorial,verbopictorial,Yes
+46,Good,shopping,Complex,Metaphtonymy,CAR IS ANIMAL + RRRRR FOR ROAR FOR STRONG ANIMAL,2,1,3,complex: integration,yes,verbopictorial,verbal,Yes
+47,Good,shopping,Complex,Metaphtonymy,"TREE IS PERSON + SPROUT FOR TREE, SOUL FOR PERSON",2,1,3,complex: integration,no,visual,verbal,Yes
+50,Good,shopping,Complex,Metaphtonymy,LANDROVER IS MASAI + TYRE FOR LANDROVER (Masai run long distances in difficult lands in Africa?),1,1,2,complex: integration,yes,visual,visual,Yes
+60,Good,shopping,Complex,Metaphtonymy,LEGO HAND IS SIXTIN CHAPEL HAND + SIXTIN CHAPEL HAND FOR ART FOR RENAISSANCE,2,1,3,complex: integration,yes,visual,visual,Yes
+64,Good,specialty,Complex,Metaphtonymy,OPENING MOET BOTTLE IS FIREWORKS (FOR PARTY),1,1,2,complex: integration,yes,visual,visual,No
+65,Good,specialty,Complex,Metaphtonymy,CAR IS PERSON + LOGO FOR CAR + FETUS FOR PERSON (implication: brand is the core component),2,1,3,complex: integration,yes,verbopictorial,verbopictorial,Yes
+66,Good,specialty,Complex,Metaphtonymy,"BELT IS (MARBLE & SHAPE & ROME FOR) COLISEUM. Implication: the belt is a piece of art, long lasting, and italian",3,1,4,complex: integration,yes,verbopictorial,verbopictorial,Yes
+67,Good,specialty,Complex,Metaphtonymy,CAR IS WOMAN + EYELASHES FOR WOMAN + SPEEDOMETERS FOR CAR,2,1,3,complex: integration,yes,visual,visual,Yes
+69,Good,specialty,Complex,Metaphtonymy,MACHINERY  IS A HUMMINGBIRD + MACHINERY FOR WATCH ,1,1,2,complex: integration,yes,visual,visual,Yes
+71,Good,specialty,Complex,Metaphtonymy,IDEAS ARE (WILD) ANIMALS + ROPE FOR WILD ANIMAL,1,1,2,complex: integration,no,verbopictorial,verbopictorial,Yes
+72,Good,specialty,Complex,Metaphtonymy,ABSOLUT VODKA IS ISLAND + ISLAND FOR PARADISE,1,1,2,complex: integration,yes,verbopictorial,verbopictorial,Yes
+81,Good,specialty,Complex,Metaphtonymy,(BED & LINGERIE FOR) LUST IS (PRODUCT&EXTINGUISHER FOR) FIRE,4,1,5,complex: integration,no,verbopictorial,visual,?
+82,Good,specialty,Complex,Metaphtonymy,TIE (FOR BRAND) IS CROISSANT + CROISSANT & PARIS FOR FRANCE,3,1,4,complex: integration,yes,visual,verbopictorial,Yes
+84,Good,specialty,Complex,Metaphtonymy,CAUSE (PRODUCT) FOR EFFECT (DIVIDED SELF METAPHOR),1,1,2,complex: integration,no,visual,visual,Yes
+86,Good,specialty,Complex,Metaphtonymy,CLOTHING IS COCAINE + TSHIRT FOR CLOTHING FOR SHOPAHOLIC? + COCAINE FOR DRUG FOR JUNKIE,4,1,5,complex: integration,yes,verbopictorial,verbopictorial,No
+89,Good,specialty,Complex,Metaphtonymy,"CHAMPAGNE IS FIRE EXTINGUISHER + CHAMPAGNE FOR THIRST, FIRE EXTINGUISER FOR FIRE",2,1,3,complex: integration,yes,visual,verbopictorial,Yes
+91,Good,unsought,Complex,Metaphtonymy,WATER WORLD IS REAL WORLD + CAUSE (PRODUCT) FOR EFFECT (SEEING UNDER WATER),1,1,2,complex: integration,no,visual,verbopictorial,Yes
+95,Good,unsought,Complex,Metaphtonymy,FISH IS (SCARED) PERSON + CAUSE (LURES ON SALE) FOR EFFECT (LOTS OF FISHING),1,1,2,complex: integration,no,visual,absent,?
+96,Good,unsought,Complex,Metaphtonymy,SMARTPHONE IS BEER + APP FOR SMARTPHONE + BEER FOR LEISURE TIME,2,1,3,complex: integration,yes,verbal,visual,Yes
+99,Good,unsought,Complex,Metaphtonymy,SCENARIO 1 (BABY WORLD) IS SCENARIO 2 (REAL WORL). Metonymy: children's eye for baby.,1,1,2,complex: integration,no,verbopictorial,absent,No
+103,Good,unsought,Complex,Metaphtonymy,COFFIN IS NEWSPAPER + COFFIN FOR FUNERAL + SIGN FOR RECYCLING,2,1,3,complex: integration,yes,verbopictorial,visual,Yes
+106,Good,unsought,Complex,Metaphtonymy,LG IS PERSON + FAR WEST FOR COWBOW (reduction),1,1,2,complex: integration,yes,visual,verbopictorial,Yes
+107,Good,unsought,Complex,Metaphtonymy,LG IS ARROW + ARROW FOR THIN&FAST,2,1,3,complex: integration,yes,verbopictorial,absent,Yes
+110,Good,unsought,Complex,Metaphtonymy,HEADPHONE IS STETHOSCOPE + HEADPHONE FOR GRANMA + STETHOSCOPE FOR DOCTOR,2,1,3,complex: integration,yes,verbopictorial,visual,Yes
+114,Good,unsought,Complex,Metaphtonymy,SCENARIO 1 (ROBOTS LEARNING ABOUT HUMANS) IS SCENARIO 2 (HUMANS LEARNING ABOUT ROBOTS). Metonymy: HUMAN EYE FOR HUMAN LIFE,1,1,2,complex: integration,yes,verbopictorial,visual,Yes
+116,Good,unsought,Complex,Metaphtonymy,SEAL IS PERSON + SEAL FOR WATER ANIMALS + GLASSES FOR PERSON,2,1,3,complex: integration,yes,visual,visual,Yes
+121,Service,tangible,Complex,Metaphtonymy,"CHANGE IS MOTION + GREEN FOR EARTH + BLUE FOR SKY (origin and destination, respectively)",2,1,3,complex: integration,no,verbal,verbopictorial,Yes
+121,Service,tangible,Complex,Metaphtonymy,CREATING IDEAS IS CULTIVATING A PLANT + BRANCHES FOR PLANT,1,1,2,complex: integration,no,verbal,visual,Yes
+122,Service,tangible,Complex,Metaphtonymy,LOSING A PROPERTY IS LOSING A POSSESSION + CAUSE (SERVICE) FOR EFFECT (WEIGHT LOSS) + RUBBER FOR LOSING FAT,2,1,3,complex: integration,yes,verbal,visual,Yes
+124,Service,tangible,Complex,Metaphtonymy,"MOVIE IS CIGAR + MOVIE TYPE 1, MOVIE TYPE 2, MOVIE TYPE 3, ETC. FOR MOVIE + CIGAR TYPE 1, CIGAR TYPE 2, CIGAR 3, ETC.",2,1,3,complex: integration,yes,verbal,visual,Yes
+126,Service,tangible,Complex,Metaphtonymy,BEARD IS BUFFALO + BUFFALO FOR BEAST,1,1,2,complex: integration,no,verbopictorial,verbopictorial,?
+127,Service,tangible,Complex,Metaphtonymy,"CAMERA (FOR PHOTOGRAPHY) IS FOOD (FOR CAN TYPE 1, CAN TYPE 2, CAN TYPE 3, ETC.)",2,1,3,complex: integration,yes,verbal,visual,Yes
+128,Service,tangible,Complex,Metaphtonymy,"COFFFE (FORCOFFEE STAIN) IS POSTAL SERVICE (FOR RUBBER STAMP, STAMP, ENVELOPE)",4,1,5,complex: integration,yes,visual,visual,Yes
+130,Service,tangible,Complex,Metaphtonymy,CRASH TEST DUMMIE (FOR YELLOW HAND WITH SIGN) IS PERSON (MOBILE FOR PERSON) + HELMET FOR PROTECTION,3,1,4,complex: integration,no,visual,verbopictorial,Yes
+136,Service,tangible,Complex,Metaphtonymy,MACHINES (FOR NON-FUCNTIONAL MACHINES) ARE PEOPLE (FOR DEAD PEOPLE),2,1,3,complex: integration,yes,visual,verbopictorial,Yes
+137,Service,tangible,Complex,Metaphtonymy,"HUMAN IS A MACHINE + BAR 1,2,3 FOR VOLUME, PIC1,2,3 FOR ORIGIN FOR MACHINE",3,1,4,complex: integration,no,visual,verbopictorial,No
+141,Service,tangible,Complex,Metaphtonymy,A LIFE OR DEATH SITUATION IS A 1 ON 1 PHYSICAL COMPETITION + DOCTOR FOR COMPANY FOR LIFE + GRIM REAPER FOR DEATH,2,1,3,complex: integration,no,verbal,visual,Yes
+144,Service,tangible,Complex,Metaphtonymy,"PHOTOGRAPHY IS A LOVE RELATIONSHIP + FINGER, CAMERA FOR PHOTOGRAPHY + LOVER 1, LOVER 2 FOR LOVE RELATIONSHIP",5,1,6,complex: integration,yes,verbopictorial,verbopictorial,No
+148,Service,tangible,Complex,Metaphtonymy,MOUSE IS OYSTER + MOUSE FOR WEBSITE,1,1,2,complex: integration,yes,verbopictorial,visual,Yes
+148,Service,tangible,Complex,Metaphtonymy,DIAMON IS PEARL + DIAMOND FOR ENGAGEMENT,1,1,2,complex: integration,no,verbopictorial,visual,Yes
+150,Service,tangible,Complex,Metaphtonymy,CANDY IS SPIDER + CANDY FOR SUGAR + SPIDER FOR POISON,2,1,3,complex: integration,no,verbopictorial,verbopictorial,No
+152,Service,intangible,Complex,Metaphtonymy,"ONOMATOPOEIA 1, 2, 3 FOR NOISE IS COVER",2,1,3,complex: integration,no,verbal,verbopictorial,Yes
+154,Service,intangible,Complex,Metaphtonymy,"SCENARIO 1 (TECNOLOGY) IS SCENARIO 2 (LITTLE RED HOOD TALE) + wolf for evil, little red hood for victim, hunter for saviour ",3,1,4,complex: integration,yes,verbal,visual,No
+159,Service,intangible,Complex,Metaphtonymy,DIOCESE IS MOBILE PHONE + GOD & BELIEVER FOR DIOCESE + SPEAKER &LISTENER FOR MOBILE PHONE,2,1,3,complex: integration,yes,verbopictorial,verbal,Yes
+162,Service,intangible,Complex,Metaphtonymy,(COMPANY FOR) COMMUNICATING IS GUIDING,1,1,2,complex: integration,yes,verbal,visual,Yes
+162,Service,intangible,Complex,Metaphtonymy,(NEWS FOR) COMPANY IS (FLOORS FOR) BUILDING,2,1,3,complex: integration,yes,verbal,visual,Yes
+162,Service,intangible,Complex,Metaphtonymy,PEOPLE ARE BUILDINGS + PEOPLE FOR BOSS + BUILDING FOR TOP FLOOR,2,1,3,complex: integration,no,visual,visual,Yes
+163,Service,intangible,Complex,Metaphtonymy,(SKYPE FOR) INTERNET IS PURSE,1,1,2,complex: integration,no,verbopictorial,visual,Yes
+166,Service,intangible,Complex,Metaphtonymy,KNOWING IS SEEING + ARROW FOR GOOGLE MAPS,1,1,2,complex: integration,yes,verbal,visual,Yes
+167,Service,intangible,Complex,Metaphtonymy,BUSINESS (FOR BARCLAYS) IS CAVIAR (FOR CHEF),2,1,3,complex: integration,yes,verbal,visual,Yes
+170,Service,intangible,Complex,Metaphtonymy,(HAMMER FOR) JOB IS JAIL ,1,1,2,complex: integration,no,visual,visual,Yes
+171,Service,intangible,Complex,Metaphtonymy,"(ONOMATOPOEIA FOR) STUTTER IS (HELP, BEACH FOR) SHIPWRECKED ",2,1,3,complex: integration,yes,verbal,visual,No
+174,Service,intangible,Complex,Metaphtonymy,(HAT FOR EDUCATION & HAT FOR JOB FOR) CAREER DEVELOPMENT IS (STEPS FOR) A  JOURNEY,4,1,5,complex: integration,yes,verbopictorial,visual,?
+177,Service,intangible,Complex,Metaphtonymy,"(SHAKESPEARE, HAMLET FOR) ENGLISH LANGUAGE IS A PERSON",2,1,3,complex: integration,yes,verbopictorial,verbopictorial,No
+182,NGO,NGO,Complex,Metaphtonymy,CROSS  IS KANJI + CROSS FOR DEATH + KANJI FOR CHINA,2,1,3,complex: integration,yes,visual,visual,Yes
+182,NGO,NGO,Complex,Metaphtonymy,DEATH IS DOWN + CROSS FOR DEATH,1,1,2,complex: integration,yes,visual,visual,Yes
+183,NGO,NGO,Complex,Metaphtonymy,GRAVEYARD IS CITY + TOMB FOR GRAVEYARD + HOUSE FOR CITY,2,1,3,complex: integration,yes,verbopictorial,verbopictorial,No
+184,NGO,NGO,Complex,Metaphtonymy,(KENYA & LACK OF WATER FOR) PERSON IN NEED IS (SUNGLASSES & POSING & PRICE FOR) TOP MODEL ,5,1,6,complex: integration,yes,verbopictorial,verbopictorial,No
+185,NGO,NGO,Complex,Metaphtonymy,"(MOBILE, CAMERA, RECORDER FOR) INFORMATION FOR ARGUMENT IS (GUN, AMMUNITION FOR) WAR ",6,1,7,complex: integration,yes,verbopictorial,verbopictorial,Yes
+188,NGO,NGO,Complex,Metaphtonymy,WOMAN IS (PARTS FOR) RAW MEAT,1,1,2,complex: integration,no,visual,verbal,Yes
+193,NGO,NGO,Complex,Metaphtonymy,CHIMNEYS ARE CANYONS + CHIMNEY FOR SMOKE + CANYONS FOR BULLETS,2,1,3,complex: integration,no,visual,visual,Yes
+195,NGO,NGO,Complex,Metaphtonymy,CLOTHING IS FOOD + MOTH FOR CLOTHING (EATER) + PEOPLE FOR (FOOD) EATER,2,1,3,complex: integration,no,verbopictorial,verbopictorial,Yes
+197,NGO,NGO,Complex,Metaphtonymy,WOMAN IS (PARTS FOR) RAW MEAT,1,1,2,complex: integration,yes,verbopictorial,verbopictorial,Yes
+198,NGO,NGO,Complex,Metaphtonymy,ROAD HEIGHT IS (MICK JAGGER FOR HIGH & XXX SINGER FOR LOW FOR) NOISE PITCH ,2,1,3,complex: integration,yes,verbopictorial,verbopictorial,Yes
+199,NGO,NGO,Complex,Metaphtonymy,(FEMALE SMOKER FOR) SMOKERS ARE (HOOK FOR) FISH,2,1,3,complex: integration,yes,verbal,verbopictorial,Yes
+200,NGO,NGO,Complex,Metaphtonymy,BABY GIRL (FOR CHILDREN) IS BABY TIGER (FOR BABY ANIMALS),2,1,3,complex: integration,yes,visual,verbopictorial,No
+202,NGO,NGO,Complex,Metaphtonymy,(PETROL FOR) SHIP IS (OLIVE OIL) FOR CAN,2,1,3,complex: integration,yes,verbal,visual,Yes
+203,NGO,NGO,Complex,Metaphtonymy,(CUT TRUNK FOR TREE FOR) PLANTS ARE( BEHEADED) PEOPLE,1,1,2,complex: integration,yes,verbopictorial,verbopictorial,Yes
+204,NGO,NGO,Complex,Metaphtonymy,TRANGENIC FOOD IS SCORPION + EFFECT FOR CAUSE (FERTILIZER CAUSES DEAD AND POISON CAUSES DEATH),1,1,2,complex: integration,yes,verbopictorial,visual,Yes
+208,NGO,NGO,Complex,Metaphtonymy,(EAGLE FOR) ANIMALS ARE (MAN FOR) PEOPLE,2,1,3,complex: integration,yes,verbopictorial,verbopictorial,?
+210,NGO,NGO,Complex,Metaphtonymy,BEAR IS (WAX& FIRE FOR) CANDLE,2,1,3,complex: integration,yes,visual,visual,Yes
+12,Good,convenience,Complex,Metaphtonymy ,M&M IS GREEN FOR NATURE FOR ECOLOGIST,2,1,3,complex: integration,yes,visual,visual,Yes
+13,Good,convenience,Complex,Metaphtonymy ,CREAM IS GENIUS + GENIUS FOR MAGIC,1,1,2,complex: integration,yes,visual,visual,Yes
+13,Good,convenience,Complex,Metaphtonymy ,INNER PAIN  IS OUTER PAIN + BURNING MATCHES FOR FIRE FOR HEAT,2,1,3,complex: integration,no,visual,visual,Yes
+29,Good,convenience,Metaphtonymy ,Metaphtonymy ,INNER PAIN  IS OUTER PAIN + KNIFE FOR CUTING FOR OUTER PAIN,2,1,3,complex: integration,no,verbal,visual,Yes
+42,Good,shopping,Complex,Metaphtonymy ,INTENSE EMOTIONS (buying car?) ARE HEAT = CAR IS BLOOD CELL + BLOOD CELL FOR BLOOD PRESSURE FOR INTENSE EMOTION,2,1,3,complex: integration,yes,visual,visual,No
+53,Good,shopping,Complex,Metaphtonymy ,HUMANS ARE MACHINES + PAUSE BUTTON FOR STOP FOR ANTIAGEING,2,1,3,complex: integration,no,visual,visual,Yes
+70,Good,specialty,Complex,Metaphtonymy ,FOOD IS JEWELRY + PEAS FOR FOOD + PEARL FOR JEWELRY,2,1,3,complex: integration,no,verbopictorial,visual,Yes
+78,Good,specialty,Complex,Metaphtonymy ,"TOMATO IS MERCEDES BENZ + MB FOR EXPENSIVE, EXCLUSIVE, ELLITE + TOMATO FOR FOOD FOR SUPERMARKET",3,1,4,complex: integration,yes,verbopictorial,visual,Yes
+80,Good,specialty,Complex,Metaphtonymy ,WATCH IS PATCH + PATCH FOR PIRATE FOR SEA LIFE,2,1,3,complex: integration,yes,visual,verbopictorial,Yes
+88,Good,specialty,Complex,Metaphtonymy ,DIAMOND IS BATE + DIAMOND FOR ENGAGEMENT FOR MARRIAGE + BATE FOR TRAP FOR DEATH. Implication: WOMAN IS A RAT?,4,1,5,complex: integration,yes,verbopictorial,visual,Yes
+112,Good,unsought,Complex,Metaphtonymy ,HEADPHONE IS LIVE MUSIC + SEAT PLAN FOR THEATER FOR LIVE MUSIC,2,1,3,complex: integration,yes,visual,visual,Yes
+115,Good,unsought,Complex,Metaphtonymy ,IDEAS ARE ANIMALS + PAPER FOR ENCYCLOPEDIA FOR IDEAS + FISH FOR ANIMALS,3,1,4,complex: integration,no,verbopictorial,visual,Yes
+120,Good,unsought,Complex,Metaphtonymy ,LOCATIONS ARE POSSESSIONS + MOBILE FOR APP FOR CAR LOCATION,2,1,3,complex: integration,no,verbopictorial,visual,?
+123,Service,tangible,Complex,Metaphtonymy ,MOBILE IS A CONTAINER + PILLS FOR PRESCRIPTION FOR APP,2,1,3,complex: integration,no,verbopictorial,visual,Yes
+125,Service,tangible,Complex,Metaphtonymy ,CAT IS MAHARANI + HEAD FOR CAT FOR PETS + BODY FOR MAHARANI FOR LUXURY,4,1,5,complex: integration,yes,verbal,visual,?
+133,Service,tangible,Complex,Metaphtonymy ,CHANGE IS MOTION + GREEN FOR NATURE FOR NATURE FRIENDLY,2,1,3,complex: integration,no,verbopictorial,verbopictorial,Yes
+138,Service,tangible,Complex,Metaphtonymy ,COMPANY (FOR DIRTY BATHROOM) IS CSI (NUMBERS FOR CRIME SCENE),2,1,3,complex: integration,yes,verbopictorial,visual,No
+143,Service,tangible,Metaphtonymy ,Metaphtonymy ,INTELLECTUAL ACTIVITY IS WAR + PEN FOR JOURNALIST FOR COMMUNICATION + GUN FOR SOLDIER FOR ARMY,4,1,5,complex: integration,yes,verbopictorial,verbopictorial,Yes
+147,Service,tangible,Complex,Metaphtonymy ,DOG IS PERSON + TEETH FOR DOG FOR COMPANY + DENTURE FOR (OLD) PERSON FOR RETIREMENT HOUSE,4,1,5,complex: integration,yes,visual,verbopictorial,Yes
+155,Service,intangible,Complex,Metaphtonymy ,SAFE CASE IS A MOBILE APP + MOBILE APP FOR NOTIFICATION,1,1,2,complex: integration,yes,verbopictorial,visual,Yes
+156,Service,intangible,Complex,Metaphtonymy ,BALD WOMAN IS GIOCONDA + TUMOR FOR HAIR LOSS FOR BALD WOMAN  + GIOCONDA FOR ART,3,1,4,complex: integration,no,verbal,visual,No
+168,Service,intangible,Complex,Metaphtonymy ,READING IN IPAD IS EXPLORING A LANDSCAPE + FINGERPRINTS FOR SWIPING FOR READING + FOOTSTEPS FOR WALKING FOR EXPLORING,4,1,5,complex: integration,yes,verbopictorial,verbopictorial,Yes
+186,NGO,NGO,Complex,Metaphtonymy , (BABY FOR PEOPLE FOR FUTURE) PEOPLE ARE (PIGLET FOR ANIMALS FOR EARTHLY GOODS) ANIMALS,4,1,5,complex: integration,yes,verbopictorial,verbopictorial,No
+187,NGO,NGO,Complex,Metaphtonymy ,SIGNATURE IS BULLET + SIGNATURE FOR ARGUMENT + BULLET FOR GUN FOR WAR,3,1,4,complex: integration,yes,verbopictorial,verbopictorial,Yes
+190,NGO,NGO,Complex,Metaphtonymy ,(TRUNK FOR TREE FOR) PLANTS ARE (FETUS FOR WOMB FOR WOMAN FOR) PEOPLE,5,1,6,complex: integration,yes,verbopictorial,verbopictorial,Yes
+191,NGO,NGO,Complex,Metaphtonymy ,(FOX FOR ENDANGERED SPECIES FOR) ANIMALS ARE (SKIN FOR LUXURIOUS GARMENT FOR FASHION VICITIM FOR) PEOPLE,5,1,6,complex: integration,yes,verbopictorial,visual,Yes
+192,NGO,NGO,Complex,Metaphtonymy ,WORD (FOR PERSON FOR DEBATE) IS BULLET (FOR GUN FOR WAR),4,1,5,complex: integration,yes,verbopictorial,verbopictorial,Yes
+206,NGO,NGO,Complex,Metaphtonymy ,BELT (FOR LEATHER CLOTHING) IS SNAKE (FOR SLAUGHTERED ANIMALS),2,1,3,complex: integration,yes,visual,verbopictorial,?
